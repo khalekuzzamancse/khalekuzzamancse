@@ -1,11 +1,11 @@
 ## 👤  Me
 🕵️‍♂️ Md Khalekuzzman
 
-🎓 **Computer Science** final year student at **Jashore University of Science and Technology (JUST)**
+🎓 **Computer Science** final year student at **Jashore University of Science and Technology ([JUST](url))**
 
 ❤️ **Android Native** and **Kotlin** and **Compose multiplatform developer**
 
-🏠 Home Town is **Rangpur**, **Bangladesh**
+🏠 Home Town is **Gangachara**, **Rangpur**, **Bangladesh**
 
 
 ## 🛠️ Tools and Technology
