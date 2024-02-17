@@ -1,49 +1,28 @@
-
 #### Education
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="./resources/icons/graduation.png" alt="Icon" width="30" height="30" style="margin-right: 5px;">
-  <span style="display: flex; align-items: center;">
-    Computer Science and Engineering
-  </span>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.just.edu.bd/" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="./resources/icons/just_logo_trans.png" alt="YouTubeIcon" width="30" height="30" style="margin-right: 5px;">
-    <span style="display: inline-block; vertical-align: middle;">Jashore University of Science and Technology(JUST)</span>
-  </a>
-</div>
+  <img src="./resources/icons/graduation.png" width="10" height="10">Computer Science and Engineering
+  
+  <img src="./resources/icons/just_logo_trans.png" width="10" height="10">Jashore University of Science and Technology(JUST)
 
 
 #### Frameworks
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="./resources/icons/android.png" alt="Icon" width="30" height="30" style="margin-right: 5px;">
-  <span style="display: flex; align-items: center;">
-    Android <img src="./resources/icons/kotlin.png" alt="Icon" width="30" height="30" style="margin-right: 5px;">Kotlin Multiplatform
-      <img src="./resources/icons/compose.png" alt="Icon" width="30" height="30" style="margin-right: 5px;"> Compose Multiplatform
-  </span>
-</div>
+  <img src="./resources/icons/android.png"  width="10" height="10"> Android 
+  <img  src="./resources/icons/kotlin.png"  width="10" height="10"> Kotlin Multiplatform 
+  <img src="./resources/icons/compose.png"  width="10" height="10">Kotlin Multiplatform 
+  
+  
 
 #### Database and Backend Technologies
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="./resources/icons/mysql.png" alt="Icon" width="30" height="30" style="margin-right:0px;">
-  <span style="display: flex; align-items: center;">
-    MySql <img src="./resources/icons/mongodb.png" alt="Icon" width="30" height="30" style="margin-right:0px;">MongoDB
-      <img src="./resources/icons/firebase.png" alt="Icon" width="30" height="30" style="margin-right:0px">Firebase
-     <img src="./resources/icons/sql_lite.png" alt="Icon" width="30" height="30" style="margin-right:5px;">Sqlite
-        <img src="./resources/icons/room_db.png" alt="Icon" width="30" height="30" style="margin-right:5px;">Room
-           <img src="./resources/icons/realm.png" alt="Icon" width="30" height="30" style="margin-right:5px;">Realm
-  </span>
-</div>
+
+<img src="./resources/icons/mysql.png"  width="10" height="10"> MySql <img  src="./resources/icons/mongodb.png"  width="10" height="10"> MongoDB  <img src="./resources/icons/sql_lite.png"  width="10" height="10">SQLight   <img src="./resources/icons/room_db.png"  width="10" height="10"> Room <img  src="./resources/icons/realm.png"  width="10" height="10"> Realm  <img src="./resources/icons/firebase.png"  width="10" height="10">Firebase 
+  
+  
+
 
 #### Build Tools
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="./resources/icons/gradle.png" alt="Icon" width="30" height="30" style="margin-right: 5px;">
-  <span style="display: flex; align-items: center;">
-    Gradle 
-  </span>
-</div>
+  <img src="./resources/icons/gradle.png" width="10" height="10" > Gradle 
+  
 
 
 #### What more 
@@ -53,40 +32,12 @@
 - I design **UI** using Google recommended **Material** **Design** system.
 
 ### 🙋‍♂️ Connect with me
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.linkedin.com/in/md-khalekuzzaman-just-cse" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="./resources/icons/linkedin.png" alt="LinkedInIcon" width="30" height="30" style="margin-right: 5px;">
-    <span style="display: inline-block; vertical-align: middle;">Md Khalekuzzaman</span>
-  </a>
-</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="./resources/icons/gmail.png" alt="GmailIcon" width="30" height="30" style="margin-right: 5px;">
-    <span style="display: inline-block; vertical-align: middle;">khalekuzzaman91@gmail.com</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.youtube.com/channel/UCgmk4UkomyzPvhpmKGnhRgw" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="./resources/icons/youtube.png" alt="YouTubeIcon" width="30" height="30" style="margin-right: 5px;">
-    <span style="display: inline-block; vertical-align: middle;">CSEdu with CSEian</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://leetcode.com/khalekuzzamancse/" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="./resources/icons/leetcode.png" alt="LeetCodeIcon" width="30" height="30" style="margin-right: 5px;">
-    <span style="display: inline-block; vertical-align: middle;">Md Khalekuzzaman</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://codeforces.com/profile/Md_Khalekuzzaman" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="./resources/icons/codeforces.png" alt="CodeforcesIcon" width="30" height="30" style="margin-right: 5px;">
-    <span style="display: inline-block; vertical-align: middle;">Md_Khalekuzzaman</span>
-  </a>
-</div>
+  <img src="./resources/icons/linkedin.png"  width="10" height="10"> [ Linkedin ](https://www.linkedin.com/in/md-khalekuzzaman-just-cse )
+  <img src="./resources/icons/youtube.png"  width="10" height="10"> [YouTube](https://www.youtube.com/channel/UCgmk4UkomyzPvhpmKGnhRgw )
+  <img src="./resources/icons/leetcode.png"  width="10" height="10"> [LeetCode ](https://leetcode.com/khalekuzzamancse/ )
+  <img  src="./resources/icons/codeforces.png"  width="10" height="10"> [ Codeforces ]( https://codeforces.com/profile/Md_Khalekuzzaman)
+  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalekuzzamancse&show_icons=true&locale=en&layout=compact" alt="khalekuzzamancse" /></p>
