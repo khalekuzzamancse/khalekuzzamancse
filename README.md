@@ -18,15 +18,9 @@
   
   
 
-
-#### Other Skills
-  <img src="./resources/icons/gradle.png" width="10" height="10" > Gradle 
-  
-
-
 #### What more 
 - I develop **multiplatform** apps by following best practices such as **SOLID Principles**, **Design Patterns,** **Clean Architectures**, **MVVM**
-- Understanding of **Gradle**, and **DSL** using Kotlin.
+- Understanding of <img src="./resources/icons/gradle.png" width="10" height="10" > **Gradle**, and  **DSL** using <img src="./resources/icons/kotlin.png" width="10" height="10" > Kotlin .
 
 - I design **UI** using Google recommended **Material** **Design** system.
 
