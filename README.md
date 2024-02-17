@@ -1,8 +1,6 @@
 ### Education
 
-  <img src="./resources/icons/graduation.png" width="10" height="10">Computer Science and Engineering
-  
-  <img src="./resources/icons/just_logo_trans.png" width="10" height="10">Jashore University of Science and Technology(JUST)
+  <img src="./resources/icons/graduation.png" width="10" height="10"> Computer Science and Engineering **from**  <img src="./resources/icons/just_logo_trans.png" width="10" height="10"> Jashore University of Science and Technology([JUST](https://www.just.edu.bd/))
 
 
 #### Frameworks
@@ -21,7 +19,7 @@
   
 
 
-#### Build Tools
+#### Other Skills
   <img src="./resources/icons/gradle.png" width="10" height="10" > Gradle 
   
 
