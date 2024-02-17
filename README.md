@@ -15,7 +15,7 @@
 
 - 📧 Email: [  khalekuzzaman91@gmail.com](mailto:khalekuzzaman91@gmail.com)  
 - 🌐 LinkedIn: [Md Khalekuzzaman](https://www.linkedin.com/in/md-khalekuzzaman-just-cse)   
-- 📺 YouTube: [CS with CSEian](https://www.youtube.com/channel/your-channel)
+- 📺 YouTube: [CS with CSEian](https://www.youtube.com/channel/UCgmk4UkomyzPvhpmKGnhRgw)
 - 🚀 Codeforces: [Md_Khalekuzzaman](https://codeforces.com/profile/Md_Khalekuzzaman) 💡 LeetCode: [Md Khalekuzzaman](https://leetcode.com/khalekuzzamancse/)
 
 
