@@ -1,4 +1,5 @@
-#### Education
+### Education
+
   <img src="./resources/icons/graduation.png" width="10" height="10">Computer Science and Engineering
   
   <img src="./resources/icons/just_logo_trans.png" width="10" height="10">Jashore University of Science and Technology(JUST)
@@ -8,7 +9,7 @@
 
   <img src="./resources/icons/android.png"  width="10" height="10"> Android 
   <img  src="./resources/icons/kotlin.png"  width="10" height="10"> Kotlin Multiplatform 
-  <img src="./resources/icons/compose.png"  width="10" height="10">Kotlin Multiplatform 
+  <img src="./resources/icons/compose.png"  width="10" height="10">Compose Multiplatform 
   
   
 
