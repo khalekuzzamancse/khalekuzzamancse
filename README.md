@@ -33,8 +33,7 @@
 - I design **UI** using Google recommended **Material** **Design** system.
 
 ### 🙋‍♂️ Connect with me
-
-  <img src="./resources/icons/linkedin.png"  width="10" height="10"> [ Linkedin ](https://www.linkedin.com/in/md-khalekuzzaman-just-cse )
+ <img src="./resources/icons/linkedin.png"  width="10" height="10"> [ Linkedin ](https://www.linkedin.com/in/md-khalekuzzaman-just-cse)
   <img src="./resources/icons/youtube.png"  width="10" height="10"> [YouTube](https://www.youtube.com/channel/UCgmk4UkomyzPvhpmKGnhRgw )
   <img src="./resources/icons/leetcode.png"  width="10" height="10"> [LeetCode ](https://leetcode.com/khalekuzzamancse/ )
   <img  src="./resources/icons/codeforces.png"  width="10" height="10"> [ Codeforces ]( https://codeforces.com/profile/Md_Khalekuzzaman)
