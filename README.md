@@ -3,10 +3,10 @@
   <img src="./resources/icons/graduation.png" width="10" height="10"> Computer Science and Engineering **from**  <img src="./resources/icons/just_logo_trans.png" width="10" height="10"> Jashore University of Science and Technology([JUST](https://www.just.edu.bd/))
 
 
-#### Frameworks
-  <img src="./resources/icons/android.png"  width="10" height="10"> C++ 
-  <img  src="./resources/icons/kotlin.png"  width="10" height="10"> Java
-  <img src="./resources/icons/compose.png"  width="10" height="10">Kotlin
+#### Progaming Languages
+  <img src="./resources/icons/c++.png"  width="10" height="10"> C++ 
+  <img  src="./resources/icons/java.png"  width="10" height="10"> Java
+  <img src="./resources/icons/kotlin.png"  width="10" height="10">Kotlin
 
 #### Frameworks
 
