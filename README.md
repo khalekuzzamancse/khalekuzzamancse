@@ -4,6 +4,11 @@
 
 
 #### Frameworks
+  <img src="./resources/icons/android.png"  width="10" height="10"> C++ 
+  <img  src="./resources/icons/kotlin.png"  width="10" height="10"> Java
+  <img src="./resources/icons/compose.png"  width="10" height="10">Kotlin
+
+#### Frameworks
 
   <img src="./resources/icons/android.png"  width="10" height="10"> Android 
   <img  src="./resources/icons/kotlin.png"  width="10" height="10"> Kotlin Multiplatform 
