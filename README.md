@@ -8,7 +8,12 @@ I am Md. Khalekuzzman, experienced in native **Android**, native **iOS**, **Kotl
 
 # Experience
 - **Mobile App Developer** at DevsStream Limited: *Nov 2024–Present*
+  - Worked on EPOS, chat, and FinTech (merchant payment) applications, integrating card payment systems
+  - Worked with Flutter, Dart, Kotlin, Android, Jetpack Compose, Legacy code
+  - Gained foundational knowledge of system design, UML, and project documentation
 - **Independent app development**: *2022–Present*
+  - Published 5+ apps on Google Play
+  - Developed Blood Donation App, Digital Wallet App, Task Managment App
 # Technical Skills
 
 - **Android**: Java, Kotlin, Jetpack Compose, UI Test, Unit Test, Gradle, JNI, NDK, SQLite, Room, Firebase, RESTful API & WebSocket, Material Design
