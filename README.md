@@ -11,17 +11,17 @@ I am Md. Khalekuzzman, experienced in native **Android**, native **iOS**, **Kotl
 - **Independent app development**: *2022–Present*
 # Technical Skills
 
- **Android**: Java, Kotlin, Jetpack Compose, UI Test, Unit Test, Gradle, JNI, NDK, SQLite, Room, Firebase, RESTful API & WebSocket, Material Design
+- **Android**: Java, Kotlin, Jetpack Compose, UI Test, Unit Test, Gradle, JNI, NDK, SQLite, Room, Firebase, RESTful API & WebSocket, Material Design
 
-**iOS**: Swift, SwiftUI, XCTest, Swift Test, Core-Data, Swift-Data, Firebase, RESTful API & WebSocket, 
+- **iOS**: Swift, SwiftUI, XCTest, Swift Test, Core-Data, Swift-Data, Firebase, RESTful API & WebSocket, 
 
-**Kotlin Multiplatform**: Architecure, SharedUI with common bussiness logic, Compose Multiplatform,Firebase, RESTful API & WebSocket
-
-
-**Flutter**: Dart, Flutter, Unit Test, UI Test, DevTools, GoRouter, RxDart, Provider, Bloc, Riverpod, GetX, BLoC Pattern,Firebase, RESTful API & WebSocket
+- **Kotlin Multiplatform**: Architecure, SharedUI with common bussiness logic, Compose Multiplatform,Firebase, RESTful API & WebSocket
 
 
-**Misc**: CSE Core, DSA, SOLID & Design Pattern, Clean Architecture, MVVM, MVI, Clean Code
+- **Flutter**: Dart, Flutter, Unit Test, UI Test, DevTools, GoRouter, RxDart, Provider, Bloc, Riverpod, GetX, BLoC Pattern,Firebase, RESTful API & WebSocket
+
+
+- **Misc**: CSE Core, DSA, SOLID & Design Pattern, Clean Architecture, MVVM, MVI, Clean Code
 <!-- #### Progaming Languages
   <img src="./resources/icons/c++.png"  width="10" height="10"> C++ 
   <img  src="./resources/icons/java.png"  width="10" height="10"> Java
@@ -42,8 +42,8 @@ I am Md. Khalekuzzman, experienced in native **Android**, native **iOS**, **Kotl
 #### Guava Maturity Classifier | <img src="./resources/icons/google-play.png"  width="10" height="10"> [ Google Play ](https://play.google.com/store/apps/details?id=com.kzcse.guava_detector) | <img src="./resources/icons/github.png"  width="10" height="10"> [ GitHub ](https://github.com/khalekuzzamancse/Guava-Maturity-Detector) | <img src="./resources/icons/youtube.png"  width="10" height="10"> [ Video Preivew ](https://youtu.be/lD4M3gHcDBA)
 
 - In collaboration with JUST, I contributed to a project by developing a mobile application to detect different maturity
-levels of a given Guava.<br>
-The same app idea was reimplemented in different codebases. Available versions/remakes:
+levels of a given Guava.
+- The same app idea was reimplemented in different codebases. Available versions/remakes:
 - **Android**: Used Kotlin, Jetpack Compose, LitRt, TFLite, Image Picker
 - **Flutter**: Used Flutter SDK, Custom Plugin, Kotlin, LiteRT, GoRouter, Unit Test, UI Test, Clean Architecture
 
