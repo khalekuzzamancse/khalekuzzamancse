@@ -30,11 +30,9 @@ I am Md. Khalekuzzman, experienced in native **Android**, native **iOS**, **Kotl
 
 # Projects
 #### Algorithms Visualizer | <img src="./resources/icons/google-play.png"  width="10" height="10"> [ Google Play ](https://play.google.com/store/apps/details?id=com.khalekuzzaman.just.cse.algorithms_simulator) | <img src="./resources/icons/github.png"  width="10" height="10"> [ GitHub ](https://github.com/khalekuzzamancse/Algorithms_Visualizer) | <img src="./resources/icons/youtube.png"  width="10" height="10"> [ Video Preivew ](https://youtu.be/MrTQkInYewM?si=9cJfd9JZ1ll-rGDT)
-An app that visualizes the algorithms taught in CSE courses.
-<br>
-Implemented algorithms include: Linear Search, Binary Search, Bubble Sort, Selection Sort, Quick Sort, Insertion Sort, BFS, DFS, Dijkstra, Topological Sort, Prim’s Algorithm, Tree Traversals (BFS, Preorder, Postorder), Expression Evaluation Tree, and Binary Search Tree operations.
-<br>
-The same app idea was reimplemented in different codebases to tackle platform-specific challenges and learn each ecosystem. Available versions/remakes:
+- An app that visualizes the algorithms taught in CSE courses. Implemented algorithms include: Linear Search, Binary Search, Bubble Sort, Selection Sort, Quick Sort, Insertion Sort, BFS, DFS, Dijkstra, Topological Sort, Prim’s Algorithm, Tree Traversals (BFS, Preorder, Postorder), Expression Evaluation Tree, and Binary Search Tree operations
+
+- The same app idea was reimplemented in different codebases to tackle platform-specific challenges and learn each ecosystem. Available versions/remakes:
 - **Android**: Used Kotlin, Android SDK, Jetpack Compose, Clean Architecture
 - **Kotlin Multiplatform**: Used Kotlin, Compose Multiplatform, Clean Architecture
 - **iOS**: Used Swift, SwiftUI
