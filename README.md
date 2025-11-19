@@ -57,11 +57,11 @@ levels of a given Guava.
 - Continuously evolving repository containing code samples & notes on Android development, covering topics in depth
 including UiTest, JNI, NDK, TFLite, LiteRT
 
-#### iOS Development|  <img src="./resources/icons/github.png"  width="10" height="10"> [ GitHub ](https://github.com/khalekuzzamancse/iOS-Development) 
+#### iOS Development | <img src="./resources/icons/github.png"  width="10" height="10"> [ GitHub ](https://github.com/khalekuzzamancse/iOS-Development) 
 - Continuously evolving repository containing code samples & notes on iOS development, covering topics in depth  covering topics in depth
 including SwiftUI,
 
-#### Flutter Development |  <img src="./resources/icons/github.png"  width="10" height="10"> [ GitHub ](https://github.com/khalekuzzamancse/Flutter-Development) 
+#### Flutter Development | <img src="./resources/icons/github.png"  width="10" height="10"> [ GitHub ](https://github.com/khalekuzzamancse/Flutter-Development) 
 
 
  - Continuously evolving repository containing code samples & notes on Flutter development, covering core topics in depth
